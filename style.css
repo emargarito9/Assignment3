@@ -1,0 +1,20 @@
+/* style.css */
+
+      h1{
+          color:aqua;
+          background:tan;
+          text-align:center;
+      }
+      div {
+      width: 300px;
+      height: 600px;
+      align-content: center;
+    }
+    input{
+        background:tan;
+        text-align:center;
+    }
+    button{
+          align-items: center;
+          justify-content: center;
+    }
